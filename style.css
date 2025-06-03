@@ -52,3 +52,7 @@ header{
         line-height: 2.3rem;
     }
 }
+main{
+    max-width: 62.7rem;
+    margin-inline: auto;
+}
